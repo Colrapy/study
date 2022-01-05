@@ -1,0 +1,1 @@
+console.log('github 연습하기');
