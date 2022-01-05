@@ -44,3 +44,25 @@ import pandas as pd
         - StandardScaler : 일반적인 표준화 
         - MinMaxScaler : 데이터의 분포가 가우시안 분포가 아닌 경우
       - 정규화(Nomalizer) : 사이킷런 모듈은 선형대수에서의 정규화 개념, 개별 벡터의 크기를 맞추기 위해 변환, 개별 벡터를 모든 피처 벡터 크기로 나눠줌 
+
+
+### 03. 평가
+
+- 분류의 성능 평가 지표 : 정확도, 오차행렬, 정밀도, 재현율, F1 스코어, ROC AUC
+
+1. 정확도(Accuracy)
+
+
+2. 오차행렬(Confusion Matrix)
+
+
+3. 정밀도(Precision)
+
+
+4. 재현율(Recall)
+
+
+5. F1 스코어
+
+
+6. ROC AUC
