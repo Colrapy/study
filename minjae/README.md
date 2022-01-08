@@ -66,4 +66,10 @@ import pandas as pd
    - 정밀도와 재현율이 어느 한쪽으로 치우치지 않는 수치를 나타낼 때 상대적으로 높은 값을 가짐.
 
 
-6. ROC AUC
+6. ROC AUC 
+   - ROC 곡선 : FPR(X축)이 변할 때 TPR(Y축)이 어떻게 변하는지 나타내는 곡선
+     - TPR : 재현율 = 민감도, positive가 정확히 예측되어야 하는 수준
+     - TNR : 특이성, 민감도에 대응하는 지표, negative가 정확히 예측되어야 하는 수준
+     - **FPR = FP / (FP+TN) = 1 - TNR**
+   - AUC ( Area Under Curve) : ROC 곡선 밑의 면적을 구한 것
+     - 1에 가까울수록 좋은 수치
