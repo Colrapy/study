@@ -46,7 +46,7 @@
     </tr>
     <tr>
       <td>FE</td>
-      <td>Figma</td>
+      <td>JSON, 동기, 비동기</td>
   </tr>
   
   <!--  💛 01.19 스터디 계획  -->
