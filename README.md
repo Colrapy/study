@@ -64,7 +64,7 @@
     </tr>
     <tr>
       <td>FE</td>
-      <td>JS로 데이터 가져오기</td>
+      <td>React란?</td>
   </tr>
   
   <!--  💛 01.26 스터디 계획  -->
@@ -82,7 +82,7 @@
     </tr>
     <tr>
       <td>FE</td>
-      <td>react route</td>
+      <td>react component</td>
   </tr>
   
   <!--  💛 02.02 스터디 계획  -->
@@ -103,7 +103,7 @@
     </tr>
     <tr>
       <td>FE</td>
-      <td>TS와 react</td>
+      <td>디자인 툴</td>
   </tr>
  
 </table>
