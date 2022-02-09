@@ -111,7 +111,7 @@
     <td>6</td>
     <td>2022.02.09</td>
     <td></td>
-    <td>UI수정, 간트차트 만들기</td>
+    <td>회의: UI수정 및 페이지 구체화</td>
   </tr>
  <tr>
     <td>7</td>
@@ -127,6 +127,16 @@
   </tr>
 </table>
 
+
+## 회의 일지
+### 🖋 22.02.09
+- oven prototype 보고 페이지 구체화하기
+- 수집데이터 관련 사이트들
+  - [공공데이터포털: 공연전시정보](https://www.data.go.kr/data/15000120/openapi.do)
+  - [공공데이터포털: 예술지식_미술정보서비스](https://www.data.go.kr/data/15000737/openapi.do)
+  - [공공데이터포털: 미술작가목록](https://www.data.go.kr/data/15046037/fileData.do)
+- 웹에서 머신러닝 활용하는 방법
+  - 피클..^^?
 
 ## 읽어보기!
 - [마크다운 사용법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
