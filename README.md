@@ -117,13 +117,13 @@
     <td>7</td>
     <td>2022.02.16</td>
     <td></td>
-    <td></td>
+    <td>회의: 중간점검, ML 툴 정하기</td>
   </tr>
    <tr>
     <td>8</td>
     <td>2022.02.23</td>
     <td></td>
-    <td></td>
+    <td>클러스터링, Prototype완성, 배포관련 알아오기</td>
   </tr>
 </table>
 
@@ -137,6 +137,10 @@
   - [공공데이터포털: 미술작가목록](https://www.data.go.kr/data/15046037/fileData.do)
 - 웹에서 머신러닝 활용하는 방법
   - 피클..^^?
+
+### 🖋 22.02.16
+- 머신러닝 툴 정하기
+- 배포 방법 찾아오기 
 
 ## 읽어보기!
 - [마크다운 사용법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
